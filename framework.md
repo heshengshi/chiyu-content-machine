@@ -12,7 +12,7 @@
 
 | 环节 | 方案 | 状态 |
 |------|------|------|
-| 选题 | AI Native 群信号提取 + 觅游热点 + GitHub Trending | 🔄 持续迭代 |
+| 选题 | 选题信号源框架 v0.1 + AI Native 群信号提取 + 觅游热点 + GitHub Trending | ✅ 已构建 |
 | 文案 | 文案生产框架 v0.1 → 见 script-framework.md | ✅ 已构建 |
 | 声音 | 豆包 Seed Audio 1.0 / 小米声音模型 | 📡 已发现 |
 | 视频 | OpenMontage（Prompt 驱动）+ Remotion/HyperFrames（Code 驱动） | 📡 已发现 |
@@ -31,4 +31,4 @@
 - 生产和卖工具的过程本身是内容 → 复利
 
 ---
-*Powered by 赤羽 · 2026-06-25 更新（补齐文案环节 + 发布检查清单 + 社群模式沉淀）*
+*Powered by 赤羽 · 2026-06-27 更新（新增选题信号源框架）*
