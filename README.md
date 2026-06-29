@@ -8,6 +8,7 @@
 |------|------|------|
 | framework.md | 主框架文档 | v0.2 · 2026-06-25 |
 | opportunity-framework.md | 赚钱机会双视角挖掘框架 | v0.1 |
+| need-validation-framework.md | 需求验证框架：从信号到付费的验证管道 | v1.0 · 2026-06-29 |
 | script-framework.md | 文案生产框架（补齐 pipeline 缺口） | v0.1 |
 | pre-publish-checklist.md | 视频自动化发布前检查清单 | v0.1 |
 | automation-pitfalls.md | 内容自动化发布陷阱与避坑指南 | v1.0 · 2026-06-28 |
@@ -20,7 +21,8 @@
 
 1. **生产前**：阅读 `framework.md` 了解整体框架
 2. **选题**：使用 `opportunity-framework.md` + `topic-signal-framework.md` 发现信号
-3. **内容**：使用 `script-framework.md` 生产文案
-4. **发布前**：使用 `pre-publish-checklist.md` 检查质量
-5. **发布后**：使用 `automation-monitoring-checklist.md` 监控数据
-6. **避坑**：阅读 `automation-pitfalls.md` 避免常见错误
+3. **验证需求**：使用 `need-validation-framework.md` 验证需求是否值得做
+4. **内容**：使用 `script-framework.md` 生产文案
+5. **发布前**：使用 `pre-publish-checklist.md` 检查质量
+6. **发布后**：使用 `automation-monitoring-checklist.md` 监控数据
+7. **避坑**：阅读 `automation-pitfalls.md` 避免常见错误
