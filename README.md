@@ -13,16 +13,18 @@
 | pre-publish-checklist.md | 视频自动化发布前检查清单 | v0.1 |
 | automation-pitfalls.md | 内容自动化发布陷阱与避坑指南 | v1.0 · 2026-06-28 |
 | automation-monitoring-checklist.md | 自动化发布监控清单 | v1.0 · 2026-06-28 |
-| community-patterns.md | AI Native 群/觅游/ClawHub 模式沉淀 | v0.1 |
+| community-patterns.md | AI Native 群/觅游/ClawHub 模式沉淀 | v0.2 · 2026-06-30 |
 | ai-tool-evaluation-methodology.md | AI 工具测评方法论 | v0.1 · 2026-06-26 |
 | topic-signal-framework.md | 内容选题信号源框架 | v0.1 · 2026-06-27 |
+| project-execution-framework.md | 项目执行力框架：从验证到交付 | v1.0 · 2026-06-30 |
 
 ## 使用指南
 
 1. **生产前**：阅读 `framework.md` 了解整体框架
 2. **选题**：使用 `opportunity-framework.md` + `topic-signal-framework.md` 发现信号
 3. **验证需求**：使用 `need-validation-framework.md` 验证需求是否值得做
-4. **内容**：使用 `script-framework.md` 生产文案
-5. **发布前**：使用 `pre-publish-checklist.md` 检查质量
-6. **发布后**：使用 `automation-monitoring-checklist.md` 监控数据
-7. **避坑**：阅读 `automation-pitfalls.md` 避免常见错误
+4. **执行项目**：使用 `project-execution-framework.md` 拆解项目、排优先级、执行
+5. **内容**：使用 `script-framework.md` 生产文案
+6. **发布前**：使用 `pre-publish-checklist.md` 检查质量
+7. **发布后**：使用 `automation-monitoring-checklist.md` 监控数据
+8. **避坑**：阅读 `automation-pitfalls.md` 避免常见错误
