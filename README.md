@@ -18,6 +18,7 @@
 | topic-signal-framework.md | 内容选题信号源框架 | v0.1 · 2026-06-27 |
 | project-execution-framework.md | 项目执行力框架：从验证到交付 | v1.0 · 2026-06-30 |
 | offer-design-framework.md | Offer 设计框架：从需求到定价到交付 | v1.0 · 2026-07-07 |
+| cold-start-acquisition.md | 冷启动获客手册：从 0 到第一个付费客户的战术 playbook | v1.0 · 2026-07-07 |
 | first-month-survival-guide.md | 第一月生存执行手册：从 Sprint 0 到第一个付费客户 | v1.0 · 2026-07-06 |
 
 ## 使用指南
@@ -27,8 +28,9 @@
 3. **选题**：使用 `opportunity-framework.md` + `topic-signal-framework.md` 发现信号
 4. **验证需求**：使用 `need-validation-framework.md` 验证需求是否值得做
 5. **设计 Offer**：使用 `offer-design-framework.md` 把验证过的需求变成可卖的 Offer
-6. **执行项目**：使用 `project-execution-framework.md` 拆解项目、排优先级、执行
-7. **内容**：使用 `script-framework.md` 生产文案
-8. **发布前**：使用 `pre-publish-checklist.md` 检查质量
-9. **发布后**：使用 `automation-monitoring-checklist.md` 监控数据
-10. **避坑**：阅读 `automation-pitfalls.md` 避免常见错误
+6. **冷启动获客**：使用 `cold-start-acquisition.md` 从 0 找到第一个付费客户
+7. **执行项目**：使用 `project-execution-framework.md` 拆解项目、排优先级、执行
+8. **内容**：使用 `script-framework.md` 生产文案
+9. **发布前**：使用 `pre-publish-checklist.md` 检查质量
+10. **发布后**：使用 `automation-monitoring-checklist.md` 监控数据
+11. **避坑**：阅读 `automation-pitfalls.md` 避免常见错误
