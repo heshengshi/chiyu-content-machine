@@ -8,6 +8,7 @@
 |------|------|------|
 | framework.md | 主框架文档 | v0.2 · 2026-06-25 |
 | opportunity-framework.md | 赚钱机会双视角挖掘框架 | v0.1 |
+| need-taxonomy.md | 赚钱需求分类法：从需求模式到变现路径的系统映射 | v1.0 · 2026-07-08 |
 | need-validation-framework.md | 需求验证框架：从信号到付费的验证管道 | v1.0 · 2026-06-29 |
 | script-framework.md | 文案生产框架（补齐 pipeline 缺口） | v0.1 |
 | pre-publish-checklist.md | 视频自动化发布前检查清单 | v0.1 |
@@ -26,11 +27,12 @@
 1. **生产前**：阅读 `framework.md` 了解整体框架
 2. **起步**：使用 `first-month-survival-guide.md` 规划第一月执行
 3. **选题**：使用 `opportunity-framework.md` + `topic-signal-framework.md` 发现信号
-4. **验证需求**：使用 `need-validation-framework.md` 验证需求是否值得做
-5. **设计 Offer**：使用 `offer-design-framework.md` 把验证过的需求变成可卖的 Offer
-6. **冷启动获客**：使用 `cold-start-acquisition.md` 从 0 找到第一个付费客户
-7. **执行项目**：使用 `project-execution-framework.md` 拆解项目、排优先级、执行
-8. **内容**：使用 `script-framework.md` 生产文案
-9. **发布前**：使用 `pre-publish-checklist.md` 检查质量
-10. **发布后**：使用 `automation-monitoring-checklist.md` 监控数据
-11. **避坑**：阅读 `automation-pitfalls.md` 避免常见错误
+4. **判断品类**：使用 `need-taxonomy.md` 判断需求属于哪类，确定变现路径
+5. **验证需求**：使用 `need-validation-framework.md` 验证需求是否值得做
+6. **设计 Offer**：使用 `offer-design-framework.md` 把验证过的需求变成可卖的 Offer
+7. **冷启动获客**：使用 `cold-start-acquisition.md` 从 0 找到第一个付费客户
+8. **执行项目**：使用 `project-execution-framework.md` 拆解项目、排优先级、执行
+9. **内容**：使用 `script-framework.md` 生产文案
+10. **发布前**：使用 `pre-publish-checklist.md` 检查质量
+11. **发布后**：使用 `automation-monitoring-checklist.md` 监控数据
+12. **避坑**：阅读 `automation-pitfalls.md` 避免常见错误

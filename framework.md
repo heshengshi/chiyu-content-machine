@@ -7,12 +7,13 @@
 ## 全链路
 
 ```
-选题 → 验证 → Offer设计 → 冷启动获客 → 文案 → 声音 → 视频 → 分发
+选题 → 品类判断 → 验证 → Offer设计 → 冷启动获客 → 文案 → 声音 → 视频 → 分发
 ```
 
 | 环节 | 方案 | 状态 |
 |------|------|------|
 | 选题 | 选题信号源框架 v0.1 + AI Native 群信号提取 + 觅游热点 + GitHub Trending | ✅ 已构建 |
+| 品类判断 | 赚钱需求分类法 v1.0 → 见 need-taxonomy.md | ✅ 已构建 |
 | 验证 | 需求验证框架 v1.0 → 见 need-validation-framework.md | ✅ 已构建 |
 | Offer | Offer 设计框架 v1.0 → 见 offer-design-framework.md | ✅ 已构建 |
 | 获客 | 冷启动获客手册 v1.0 → 见 cold-start-acquisition.md | ✅ 已构建 |
@@ -34,4 +35,4 @@
 - 生产和卖工具的过程本身是内容 → 复利
 
 ---
-*Powered by 赤羽 · 2026-07-07 更新（新增冷启动获客手册）*
+*Powered by 赤羽 · 2026-07-08 更新（新增赚钱需求分类法）*
