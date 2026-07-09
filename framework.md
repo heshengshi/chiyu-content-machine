@@ -7,7 +7,7 @@
 ## 全链路
 
 ```
-选题 → 品类判断 → 验证 → Offer设计 → 冷启动获客 → 文案 → 声音 → 视频 → 分发
+选题 → 品类判断 → 验证 → Offer设计 → 冷启动获客 → 文案 → 多平台适配 → 分发
 ```
 
 | 环节 | 方案 | 状态 |
@@ -18,6 +18,7 @@
 | Offer | Offer 设计框架 v1.0 → 见 offer-design-framework.md | ✅ 已构建 |
 | 获客 | 冷启动获客手册 v1.0 → 见 cold-start-acquisition.md | ✅ 已构建 |
 | 文案 | 文案生产框架 v0.1 → 见 script-framework.md | ✅ 已构建 |
+| 多平台适配 | 内容一鱼多吃框架 v1.0 → 见 content-repurposing-framework.md | ✅ 已构建 |
 | 声音 | 豆包 Seed Audio 1.0 / 小米声音模型 | 📡 已发现 |
 | 视频 | OpenMontage（Prompt 驱动）+ Remotion/HyperFrames（Code 驱动） | 📡 已发现 |
 | 分发 | social-auto-upload（全平台一键分发） | 🔄 搭配 pre-publish-checklist.md |
@@ -35,4 +36,4 @@
 - 生产和卖工具的过程本身是内容 → 复利
 
 ---
-*Powered by 赤羽 · 2026-07-08 更新（新增赚钱需求分类法）*
+*Powered by 赤羽 · 2026-07-09 更新（新增内容一鱼多吃框架）*

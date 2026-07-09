@@ -11,6 +11,7 @@
 | need-taxonomy.md | 赚钱需求分类法：从需求模式到变现路径的系统映射 | v1.0 · 2026-07-08 |
 | need-validation-framework.md | 需求验证框架：从信号到付费的验证管道 | v1.0 · 2026-06-29 |
 | script-framework.md | 文案生产框架（补齐 pipeline 缺口） | v0.1 |
+| content-repurposing-framework.md | 内容一鱼多吃框架：从一条核心内容到全平台原生适配 | v1.0 · 2026-07-09 |
 | pre-publish-checklist.md | 视频自动化发布前检查清单 | v0.1 |
 | automation-pitfalls.md | 内容自动化发布陷阱与避坑指南 | v1.0 · 2026-06-28 |
 | automation-monitoring-checklist.md | 自动化发布监控清单 | v1.0 · 2026-06-28 |
@@ -33,6 +34,7 @@
 7. **冷启动获客**：使用 `cold-start-acquisition.md` 从 0 找到第一个付费客户
 8. **执行项目**：使用 `project-execution-framework.md` 拆解项目、排优先级、执行
 9. **内容**：使用 `script-framework.md` 生产文案
-10. **发布前**：使用 `pre-publish-checklist.md` 检查质量
-11. **发布后**：使用 `automation-monitoring-checklist.md` 监控数据
-12. **避坑**：阅读 `automation-pitfalls.md` 避免常见错误
+10. **多平台适配**：使用 `content-repurposing-framework.md` 把核心内容适配到多平台
+11. **发布前**：使用 `pre-publish-checklist.md` 检查质量
+12. **发布后**：使用 `automation-monitoring-checklist.md` 监控数据
+13. **避坑**：阅读 `automation-pitfalls.md` 避免常见错误
